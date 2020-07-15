@@ -1,5 +1,3 @@
 ## Preview
 
-[![Business Frontpage Preview](Preview.png)](Preview.png)
-
-**[View Live Preview](Preview.png)**
+[![Business Frontpage Preview](https://i.redd.it/ffe2xhe7c1b51.png)](https://i.redd.it/ffe2xhe7c1b51.png)
